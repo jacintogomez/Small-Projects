@@ -1,20 +1,24 @@
 import os
 
-
-def crawler(fpath, level):
+def crawler(fpath,ignor,level):
     for n in range(level):
-        print('\t', end='')
+        if n not in ignor:
+            print('\t',end='')
     print(os.path.basename(fpath))
-    contents = []
+    contents=[]
     if os.path.isdir(fpath):
-        contents = os.listdir(fpath)
+        contents=os.listdir(fpath)
     for d in contents:
-        crawler(fpath + '/' + d, level + 1)
+        if d not in ignor and d[0] is not '.':
+            crawler(fpath+'/'+d,ignor,level+1)
+
+def givepath(pathname,ignored):
+    crawler(pathname,ignored,0)
 
 
-def givepath(pathname):
-    crawler(pathname, 0)
+def main():
+    ignored=['venv','.DS_Store']
+    name=str(input('Enter a directory or path: '))
+    givepath(name,ignored)
 
-
-name = str(input('Enter a directory or path: '))
-givepath(name)
+main()
