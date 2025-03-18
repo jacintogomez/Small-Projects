@@ -1,14 +1,18 @@
 import os
 
 def crawler(fpath,ignor,level):
-    if level>2:
+    if level>4:
         return
-    for n in range(level):
-        if n not in ignor:
-            print('\t',end='')
-    print(os.path.basename(fpath))
+    stands='|   '*(level-1) if level>=2 else ''
+    rakes='|---' if level>0 else ''
+    isdir=os.path.isdir(fpath)
+    ending='/' if isdir else ''
+    # for n in range(level):
+    #     if n not in ignor:
+    #         print('\t',end='')
+    print(stands+rakes+os.path.basename(fpath)+ending)
     contents=[]
-    if os.path.isdir(fpath):
+    if isdir:
         contents=os.listdir(fpath)
     for d in contents:
         if d not in ignor and d[0]!='.':
