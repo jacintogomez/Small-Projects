@@ -40,7 +40,7 @@ Any/All:
 """
 nums=[2,4,6,8]
 print(any(n%2==1 for n in nums))
-print(all(n%2==0 for n in nums))
+print(all(n%2==0 for n in nums)) #this is NOT the same as all(n for n in nums if n%2==0)
 
 """
 Counter:
@@ -56,3 +56,17 @@ Combinations:
 """
 from itertools import combinations
 print(list(combinations(nums,2)))
+
+"""
+Unpacking operators * and **:
+"""
+# Unpacking elements
+list1=[1,2,3,4,5]
+print(*list1)
+list2=[0,*list1,6]
+print(list2)
+# Unpacking key-value pairs
+dic1={'A':1,'B':2,'C':3}
+dic2={'D':4,'E':5,'F':6}
+dic3={**dic1,**dic2}
+print(dic3)
