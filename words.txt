@@ -11,7 +11,7 @@
 8 八 bā
 9 九 jiǔ
 A bit/kind of 有点儿 yǒu diǎn er
-ASAP 尽快 jîn kuài
+ASAP 尽快 jǐn kuài
 About/regarding 关于 guān yú
 Accident 意外 yì wài
 Activities 活动 huó dòng
@@ -55,12 +55,12 @@ Banana 香蕉 xiāng jiāo
 Bank 银行 yín háng
 Based on 根据 gēn jù
 Bathroom 洗手间 zǐ shoū jiān
-Be careful 小心 xiâo xī
-Beautiful girl 美眉 mêi méi
+Be careful 小心 xiǎo xī
+Beautiful girl 美眉 měi méi
 Beautiful/pretty 漂亮 piào liang
 Because 因为 yīn wèi
 Beef 牛肉 niú roù
-Beginner 菜鸟 cài niâo
+Beginner 菜鸟 cài niǎo
 Behind 后面 hòu miàn
 Beijing 北京 běi jīng
 Believe 相信 xiāng xìn
@@ -108,7 +108,7 @@ Chopsticks 筷子 kuài zì
 Class 班 bān
 Classroom 教师jiào shì
 Clean 干净 gān jìng
-Clean-up 打扫 dâ sâ
+Clean-up 打扫 dǎ sǎ
 Close (location) 近 jìn
 Close 关 guān
 Clothing 衣服 yī fú
@@ -121,15 +121,15 @@ Comfortable 舒服 shū fú
 Comments 评论 píng lùn
 Company 公司 gōng sī
 Computer 电脑 diàn nǎo
-Congratulations 恭喜 gōng xî
+Congratulations 恭喜 gōng xǐ
 Contact (in touch) 联系 lián xì
 Contract 合同 hé tóng
 Cook 做 zuò
 Cool/mild 凉快 líang kuai
 Cough 咳嗽 ké sòu
-Counter 柜台 guì tâi
+Counter 柜台 guì tǎi
 Credit card 信用卡 xìn yòng kǎ
-Cross the road 过马路 guò mâ lù
+Cross the road 过马路 guò mǎ lù
 Cry 哭 kǔ
 Culture 文化 wén huà
 Cute 可爱 kě ài
@@ -137,8 +137,8 @@ Dance 跳舞 tiào wǔ
 Daughter 女儿 nüǔ èr
 Decision 决定 jué dìng
 Dessert 甜点 tián diǎn
-Dictionary 词典 cí diân
-Die 死 sî
+Dictionary 词典 cí diǎn
+Die 死 sǐ
 Difficult 难 nán
 Dinner 晚饭 wǎn fàn
 Disappointed 失望 shī wàng
@@ -154,7 +154,7 @@ Domestic 国内 guó nèi
 Don’t forget 别忘 bié wàng
 Don’t really (like) 不太_ bù tài _
 Door 门 mén
-Download 下载 xià zâi
+Download 下载 xià zǎi
 Dream 做梦 zùo mèng
 Dress up 打扮 dǎ bàn
 Dress 裙子 qùn zì
@@ -165,7 +165,7 @@ Driver 司机 sī jī
 East 东 dōng
 Egg 蛋 dàn
 Elevator 电梯 diàn tī
-Email 电子邮件 diàn zî yóu jiàn
+Email 电子邮件 diàn zǐ yóu jiàn
 Encourage 鼓励 gǔ lì
 England 英国 yīng guó
 English 英语 yīng yǔ
@@ -176,7 +176,7 @@ Expensive 贵 guì
 Eye 眼睛 yǎn jīng
 Face 脸 liǎn
 Family 家人 jiā rén
-Famous 有名 yôu míng
+Famous 有名 yǒu míng
 Far 远 yuǎn
 Fat 胖 pàng
 Father 爸爸 bà ba
@@ -188,13 +188,13 @@ First 第一 dì yī
 Fish 鱼 yú
 Fluent 琉璃 liú lì
 Follow (online) 关注 guān zhù
-Followers 粉丝 fên sī
+Followers 粉丝 fěn sī
 Foot 脚 jiǎo
 For (in order to) 为了 wèi le
 For the past (3 months) 过去 gùo qù
 Forgive 原谅 yuán liàng
 Fork 叉 chā
-Free (of charge) 免费的 miân fèi de
+Free (of charge) 免费的 miǎn fèi de
 Free/available 有空 yǒu kòng
 Fresh 新鲜 xīn xīan
 Fridge 冰箱 bīng xiāng
@@ -205,7 +205,7 @@ From 从 cóng
 Fruit 水果 shuǐ guǒ
 Funny 好笑 hǎo xiào
 Game 游戏 yoú xì
-Get a cab 打车 dâ chē
+Get a cab 打车 dǎ chē
 Get up 起床 qǐ chuáng
 Getting [ ]er 越来越_了 yuè lái yuè _ le
 Gift 礼物 lǐ wù
@@ -222,7 +222,7 @@ Go 去 qù
 Good morning 早安/早上好zǎo ān / zǒ shàng hǎo
 Good 好 hǎo
 Goodnight 晚安 wǎn ān
-Grammar 愈发 yù fâ
+Grammar 愈发 yù fǎ
 Green 绿 lüù
 Greet 欢迎 huān yíng
 Guest 客人 kè rén
@@ -274,12 +274,12 @@ Laugh 笑 xiào
 Lazy 懒 lǎn
 Learn 学习 xué xí
 Left 左边 zuǒ biān
-Leg 腿 tuî
+Leg 腿 tuǐ
 Let 让 ràng
 Let/allow 让 ràng
 Let’s (suggestion) 吧 ba
 Let’s go 走吧 zǒu ba
-Light 厕所 / 灯 cè suô / dēng
+Light 厕所 / 灯 cè suǒ / dēng
 Like 喜欢 xǐ huān
 Listen 听歌 tīng gē
 Log-in 登录 dēng lù
@@ -287,18 +287,18 @@ Look (adjective) 看起来 kàn qǐ lái
 Look for 找 zhǎo
 Lose (weight) 瘦 shòu
 Love 爱 aì
-Luggage 行李 xíng lî
-Mainly 主要 zhû yào
+Luggage 行李 xíng lǐ
+Mainly 主要 zhǔ yào
 Major (college) 专业 zhuān yè
 Man 男人 nán rén
-Manager 经理 jīng lî
+Manager 经理 jīng lǐ
 Map 地图 dì tú
 Mean/meaning 意思 yì sì
 Meat 肉 roù
 Medicine 药 yǎo
 Menu 菜单 cài dān
 Milk 牛奶 niú nǎi
-Miss. 小姐 xiâo jiê
+Miss. 小姐 xiǎo jiě
 Misunderstand 误会 wù huì
 Moon 月亮 yuè liàng
 Morning 上午 shàng wǔ
@@ -308,7 +308,7 @@ Mouth 嘴 zuǐ
 Move (relocate) 搬 bān
 Movie 电影 diàn yǐng
 Mr. 先生 xiān shēng
-Museum 博物馆 bó wù guân
+Museum 博物馆 bó wù guǎn
 Music 音乐 yīn yuè
 Must (_ must _) 一定 yī dìng
 My name is 我叫 wǒ jiào
@@ -344,7 +344,7 @@ Online 上网 shàng wáng
 Only 只要 zhǐ yào
 Open 开 kāi
 Opinion 意见 yì jiàn
-Or (alternatively) 或者 huò zhê
+Or (alternatively) 或者 huò zhě
 Or 还是 hái shì
 Other 其他 qí tā
 Others 别人 bié rén
@@ -355,8 +355,8 @@ Pair 双 shuāng
 Panda 熊猫 xióng māo
 Park 公园 gōng yuán
 Party 派对 pài duì
-Password 密码 mì mâ
-Performance 表演 biâo yân
+Password 密码 mì mǎ
+Performance 表演 biǎo yǎn
 Person 人 rén
 Phone 电话 diàn huà
 Photo 照片 zhào piàn
@@ -401,21 +401,21 @@ Room 房间 fáng jiān
 Running (run a step) 跑步 pǎo bù
 Safe 安全 ān quān
 Salty 咸 xián
-Satisfied/happy 满意 mân yì
+Satisfied/happy 满意 mǎn yì
 Saturday 星期六 xīng xī liù
 Say out loud 说出来 shuō chū lái
 Scary 可怕 kě pá
-Scenery 风景 fēng jîng
+Scenery 风景 fēng jǐng
 School 学校 xué xiào
 Scroll through 刷 shuā
-Sea 海边 hâi biān
+Sea 海边 hǎi biān
 Season 季节 jì jié
 Seconds 秒 miǎo
-Send 给_发 gêi _ fā
-Sentence 句子 jù zî
+Send 给_发 gěi _ fā
+Sentence 句子 jù zǐ
 Serious 严重 yàn zhòng
 Shanghai 上海 shàng hǎi
-Share (post) 分享 fēn xiâng
+Share (post) 分享 fēn xiǎng
 Shirt 衬衫 chèn shān
 Shoes 鞋子 xié zì
 Short 矮 ǎi
@@ -425,14 +425,14 @@ Sick 生病 shēng bìng
 Sightseeing 观光 guān guāng
 Signal (signal) 信号 xìn hào
 Signature (sign) 签名 qiān míng
-Simple 简单 jîan dān
+Simple 简单 jǐan dān
 Sing 唱 chàng
 Sit 坐 zuò
 Sleep 睡觉 shuì jiào
 Smart/clever 聪明 cōng míng
 So 所以 suǒ yǐ
-Solution 办法 bàn fâ
-Solve 解决 jiê jué
+Solution 办法 bàn fǎ
+Solve 解决 jiě jué
 Someone 有人 yǒu rén
 Something 东西 dōng xī
 Son 儿子 èr zǐ
@@ -475,7 +475,7 @@ Teacher 老师 lǎo shī
 Television 电视 diǎn shì
 Tell 告诉 gào sù
 Temperature 温度wēn dù
-Text 短信 duân xìn
+Text 短信 duǎn xìn
 Than 比 bǐ
 Thank you 谢谢 xiè xiè
 That 那 nà
@@ -495,7 +495,7 @@ True 真 zhēn
 Try 试 shì
 Umbrella 伞 sǎn
 Under 下 xià
-Understand 了解 liâo jiê
+Understand 了解 liǎo jiě
 Understand 明白 míng bái
 Upset 难过 nán guò
 Use 用 yòng
