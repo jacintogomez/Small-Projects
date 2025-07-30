@@ -15,11 +15,12 @@ We will make a custom wrapper that stores the function inputs in a memoization t
 
 def custom_cache(func):
     memo={}
-    def wrapper(n):
-        if n in memo:
-            return memo[n]
-        result=func(n)
-        memo[n]=result
+    def wrapper(*args,**kwargs):
+        key=(args,frozenset(kwargs.items()))
+        if key in memo:
+            return memo[key]
+        result=func(*args,**kwargs)
+        memo[key]=result
         return result
     return wrapper
 
@@ -30,7 +31,7 @@ def fibonacci(n):
         return n
     return fibonacci(n-1)+fibonacci(n-2)
 
-print(fibonacci(10))
+print('Fibonacci Result:',fibonacci(10))
 
 #and the generic multi-input version
 @custom_cache
@@ -38,3 +39,5 @@ def binomial(n,k):
     if k==0 or k==n:
         return 1
     return binomial(n-1,k-1)+binomial(n-1,k)
+
+print('Binomial Result:',binomial(10,3))
