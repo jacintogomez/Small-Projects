@@ -7,9 +7,6 @@ def crawler(fpath,ignor,level):
     rakes='|---' if level>0 else ''
     isdir=os.path.isdir(fpath)
     ending='/' if isdir else ''
-    # for n in range(level):
-    #     if n not in ignor:
-    #         print('\t',end='')
     print(stands+rakes+os.path.basename(fpath)+ending)
     contents=[]
     if isdir:
@@ -23,7 +20,33 @@ def givepath(pathname,ignored):
 
 
 def main():
-    ignored=['venv','.DS_Store','node_modules','venv','__pycache__']
+    ignored=[
+        '.venv',
+        'venv',
+        'env',
+        '__pycache__',
+        '.pytest_cache',
+        '.mypy_cache',
+        'node_modules',
+        '.next',
+        '.nuxt',
+        '.svelt-kit',
+        '.turbo',
+        '.yarn',
+        'jspm_packages',
+        'target',
+        'build',
+        '.gradle',
+        '.mvn',
+        'out',
+        '.idea',
+        '.git',
+        '.vscode',
+        'logs',
+        '.DS_Store',
+        'Thumbs.db',
+        'desktop.ini',
+    ]
     name=str(input('Enter a directory or path: '))
     givepath(name,ignored)
 
