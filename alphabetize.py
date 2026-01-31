@@ -7,5 +7,6 @@ def alphabetize_it(filename):
             file.write(item+'\n')
 
 fname=input('Enter filename: ')
-alphabetize_it(fname)
-print('Alphabetized file',fname)
+pathname='word_lists/'+fname
+alphabetize_it(pathname)
+print('Alphabetized file',pathname)
