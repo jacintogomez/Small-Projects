@@ -51,10 +51,8 @@ def crawler(fpath,ignor,level):
             crawler(fpath+'/'+d,ignor,level+1)
 
 def givepath(pathname,ignored):
-    if args.show_ignored:
-        crawler_show_ignored(pathname,ignored,0)
-    else:
-        crawler(pathname,ignored,0)
+    crawl=crawler_show_ignored if args.show_ignored else crawler
+    crawl(pathname,ignored,0)
 
 
 def main():
