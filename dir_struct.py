@@ -1,5 +1,13 @@
 import os
 import argparse
+import sys
+
+if sys.version_info[0] < 3:
+    sys.exit(
+        "This script must be run with Python 3.\n"
+        "You may be running with Python 2.\n\n"
+        "Try: python3 directory.py\n".format(sys.version)
+    )
 
 parser=argparse.ArgumentParser()
 parser.add_argument('--show-ignored',action='store_true') #store true means false by default
