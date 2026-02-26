@@ -1,4 +1,9 @@
 import os
+import argparse
+
+parser=argparse.ArgumentParser()
+parser.add_argument('--show-ignored',action='store_true') #store true means false by default
+args=parser.parse_args()
 
 def print_directory(fpath,isdir,level):
     stands='|   '*(level-1) if level>=2 else ''
@@ -38,7 +43,10 @@ def crawler(fpath,ignor,level):
             crawler(fpath+'/'+d,ignor,level+1)
 
 def givepath(pathname,ignored):
-    crawler(pathname,ignored,0)
+    if args.show_ignored:
+        crawler_show_ignored(pathname,ignored,0)
+    else:
+        crawler(pathname,ignored,0)
 
 
 def main():
