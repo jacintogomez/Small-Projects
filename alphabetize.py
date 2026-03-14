@@ -6,7 +6,7 @@ def alphabetize_it(filename):
         for item in unique_items:
             file.write(item+'\n')
 
-fname=input('Enter filename: ')
+fname=input('Enter filename: /word_lists/')
 pathname='word_lists/'+fname
 alphabetize_it(pathname)
 print('Alphabetized file',pathname)
